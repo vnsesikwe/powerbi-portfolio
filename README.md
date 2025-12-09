@@ -80,7 +80,6 @@ This structure enables:
 | TotalPrice | Whole | Quantity × Price |
 | Total Profit | Whole | Quantity × Profit |
 
-
 ## 🧮 DAX Measures Pack
 
 ```DAX
@@ -109,6 +108,7 @@ Revenue by City = [Total Revenue]
 Revenue by Dealer = [Total Revenue]
 Profit by Brand = [Total Profit]
 Quantity by Model = [Total Quantity Sold]
+
 
 ## 📚 Additional Documentation
 
