@@ -43,7 +43,6 @@ The model follows a **classic Star Schema** design for performance and scalabili
 ### Relationships (1 → Many):
 - `DimDealer[DealerID]` → `FactSales[DealerID]`
 - `DimModel[ModelID]` → `FactSales[ModelID]`
-- `DimDate[Date]` → `FactSales[Date]`
 
 This structure enables:
 - High model performance  
