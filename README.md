@@ -17,8 +17,6 @@ This solution is fully **portfolio-ready**, featuring:
 - A well-structured **Power BI report**
 - Clear **business insights & documentation**
 
----
-
 ## 🎯 Analysis Goals & Dashboard Deliverables
 
 ### Main Dashboard Objectives:
@@ -27,8 +25,6 @@ This solution is fully **portfolio-ready**, featuring:
 3. Compare **Profit vs Quantity Sold by Brand**
 4. Visualize **Revenue and Sales by City and Dealer**
 5. Use **Key Influencers** to determine what drives **Profit**
-
----
 
 ## 🧱 Data Model Architecture
 
@@ -48,8 +44,6 @@ This structure enables:
 - Clean filtering across visuals  
 - Accurate aggregation for KPIs  
 
----
-
 ## 📘 Data Dictionary
 
 ### 🏢 DimDealer
@@ -60,8 +54,6 @@ This structure enables:
 | DealerName | Text | Name of dealership |
 | City | Text | Dealer city |
 | Country | Text | Country (Botswana / South Africa) |
-
----
 
 ### 🚘 DimModel
 
@@ -76,8 +68,6 @@ This structure enables:
 | Price (USD) | Whole | Price per unit |
 | Profit (USD) | Whole | Profit per unit |
 
----
-
 ### 📊 FactSales
 
 | Column | Type | Description |
@@ -90,7 +80,6 @@ This structure enables:
 | TotalPrice | Whole | Quantity × Price |
 | Total Profit | Whole | Quantity × Profit |
 
----
 
 ## 🧮 DAX Measures Pack
 
