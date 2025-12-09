@@ -113,7 +113,7 @@ Quantity by Model = [Total Quantity Sold]
 # 🔄 Power Query Transformations – African Car Sales Project
 
 This document outlines the data preparation steps performed in Power Query before loading into the Power BI model.
-
+```Transformations
 ---
 
 ## ✅ Source
@@ -186,7 +186,7 @@ This document outlines the data preparation steps performed in Power Query befor
 - Clean relational joins
 - Accurate DAX calculations
 - High performance Power BI visuals
-
+```
 
 ## 📚 Additional Documentation
 
