@@ -38,7 +38,6 @@ The model follows a **classic Star Schema** design for performance and scalabili
 - **FactSales** (Sales Transactions)
 - **DimDealer** (Dealership Information)
 - **DimModel** (Vehicle Information)
-- **DimDate** (Calendar Table for Time Analysis)
 
 ### Relationships (1 → Many):
 - `DimDealer[DealerID]` → `FactSales[DealerID]`
