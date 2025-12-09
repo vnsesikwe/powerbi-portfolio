@@ -121,8 +121,6 @@ Revenue by Dealer = [Total Revenue]
 Profit by Brand = [Total Profit]
 Quantity by Model = [Total Quantity Sold]
 
----
-
 ## 📚 Additional Documentation
 
 Detailed technical documentation for this project is available below:
