@@ -121,3 +121,14 @@ Revenue by Dealer = [Total Revenue]
 Profit by Brand = [Total Profit]
 Quantity by Model = [Total Quantity Sold]
 
+---
+
+## 📚 Additional Documentation
+
+Detailed technical documentation for this project is available below:
+
+- 📘 [Table Dictionary](docs/table_dictionary.md)
+- 🧮 [DAX Measures Reference](docs/DAX_measures.md)
+- 🔄 [Power Query Transformations](docs/transformations.md)
+
+These documents provide deeper insight into the **data structure, calculations, and data preparation logic** used in this project.
