@@ -22,9 +22,7 @@ This document outlines the data preparation steps performed in Power Query befor
   - DealerName → Text
   - City → Text
   - Country → Text
-- Removed duplicate DealerIDs
-- Trimmed and cleaned text columns
-
+  
 ---
 
 ## 🔹 DimModel Transformations
@@ -35,12 +33,10 @@ This document outlines the data preparation steps performed in Power Query befor
   - Brand → Text
   - Model → Text
   - Segment → Text
-  - EngineSize → Decimal
+  - EngineSize → Decimal (Change type with United States Locale tranformation)
   - Fuel → Text
   - Price → Whole Number
   - Profit → Whole Number
-- Removed null Brand and Model values
-- Standardized segment naming (SUV, Sedan, Hatchback, Pickup)
 
 ---
 
@@ -53,11 +49,10 @@ This document outlines the data preparation steps performed in Power Query befor
   - DealerID → Whole Number
   - ModelID → Whole Number
   - Quantity → Whole Number
-  - TotalPrice → Whole Number
-  - Total Profit → Whole Number
-- Removed duplicate transaction records
-- Filtered out Quantity ≤ 0
-- Created Year and Month columns from Date (optional for reporting)
+  - TotalPrice → Decimal
+  - Total Profit → Decimal
+  - Enable "Column Quality" check
+  - Filter New Values on Sale ID to remove empty rows
 
 ---
 
