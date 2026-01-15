@@ -166,7 +166,6 @@ Count of Orders = COUNTROWS(factInvoices)
 * Change data types via Applied Steps
 * Filter null Invoice Numbers
 * Promote first row to headers
-
 ---
 
 ## 📚 Supporting Documentation
@@ -175,5 +174,4 @@ Count of Orders = COUNTROWS(factInvoices)
 * 📈 Visualisations Logic → `docs/Visualisations.md`
 
 These files provide deeper technical details on **data preparation and visual construction logic** used in the report.
-
 ---
