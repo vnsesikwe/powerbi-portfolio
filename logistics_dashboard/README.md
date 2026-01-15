@@ -171,7 +171,7 @@ Count of Orders = COUNTROWS(factInvoices)
 
 ## 📚 Supporting Documentation
 
-* 🧹 [Transformations Notes](docs/transformations.md)  
+* 🧹 [Transformation Notes](docs/transformations.md)  
 * 📈 [Visualisations Logic](docs/Visualisations.md)
 
 These files provide deeper technical details on **data preparation and visual construction logic** used in the report.
