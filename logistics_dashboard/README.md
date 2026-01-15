@@ -145,7 +145,7 @@ Count of Orders = COUNTROWS(factInvoices)
 
 ---
 
-## 🧹 Power Query – Data Cleaning Summary
+## 🧹 Power Query – Transformation Summary
 
 ### Carriers Details (PDF)
 
@@ -171,11 +171,9 @@ Count of Orders = COUNTROWS(factInvoices)
 
 ## 📚 Supporting Documentation
 
-* 🧹 Data Cleaning Notes → `docs/Data_Cleaning_Notes.md`
+* 🧹 Data Cleaning Notes → `docs/transformation.md`
 * 📈 Visualisations Logic → `docs/Visualisations.md`
 
 These files provide deeper technical details on **data preparation and visual construction logic** used in the report.
 
 ---
-
-This README now matches the **professional quality, structure, and portfolio depth** of your African Car Sales project.
