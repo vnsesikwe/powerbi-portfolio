@@ -166,7 +166,6 @@ Count of Orders = COUNTROWS(factInvoices)
 * Change data types via Applied Steps
 * Filter null Invoice Numbers
 * Promote first row to headers
----
 ```
 
 ## 📚 Supporting Documentation
