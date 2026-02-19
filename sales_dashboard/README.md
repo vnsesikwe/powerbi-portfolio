@@ -85,6 +85,7 @@ This structure enables:
 | Quantity | Whole | Units sold |
 | TotalPrice | Whole | Quantity × Price |
 | Total Profit | Whole | Quantity × Profit |
+
 <img width="1294" height="734" alt="image" src="https://github.com/user-attachments/assets/43ce73d9-58a1-4227-b1ef-c4aab2a08483" />
 
 ---
