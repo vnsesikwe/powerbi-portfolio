@@ -17,6 +17,8 @@ This solution is fully **portfolio-ready**, featuring:
 - A well-structured **Power BI report**
 - Clear **business insights & documentation**
 
+---
+
 ## 🎯 Analysis Goals & Dashboard Deliverables
 
 ### Main Dashboard Objectives:
@@ -24,7 +26,9 @@ This solution is fully **portfolio-ready**, featuring:
 2. Identify **Top 3 Car Models Sold (by Quantity)**
 3. Compare **Profit vs Quantity Sold by Brand**
 4. Visualize **Revenue and Sales by City and Dealer**
-5. Use **Key Influencers** to determine what drives **Profit**
+5. Use **Key Influencers (Page 2)** to determine what drives **Profit**
+
+---
 
 ## 🧱 Data Model Architecture
 
@@ -43,6 +47,8 @@ This structure enables:
 - High model performance  
 - Clean filtering across visuals  
 - Accurate aggregation for KPIs  
+
+---
 
 ## 📘 Data Dictionary
 
@@ -80,6 +86,8 @@ This structure enables:
 | TotalPrice | Whole | Quantity × Price |
 | Total Profit | Whole | Quantity × Profit |
 
+---
+
 ## 🧮 DAX Measures Pack
 
 ```DAX
@@ -108,7 +116,7 @@ Revenue by City = [Total Revenue]
 Revenue by Dealer = [Total Revenue]
 Profit by Brand = [Total Profit]
 Quantity by Model = [Total Quantity Sold]
-```
+
 
 ## 📚 Additional Documentation
 
