@@ -110,8 +110,8 @@ Avg Profit per Sale =
 DIVIDE ( [Total Profit], DISTINCTCOUNT ( FactSales[SaleID] ) )
 Avg Profit per Unit =
 DIVIDE ( [Total Profit], [Total Quantity Sold] )
-![Uploading image.png…]()
 
+![Uploading image.png…]()
 
 -- Breakdown Measures
 Revenue by Country = [Total Revenue]
